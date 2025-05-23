@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "delivery-app",
-    "slug": "app-react-rn",
+    "name": "app-react-native",
+    "slug": "app-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
