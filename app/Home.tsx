@@ -1,7 +1,12 @@
-import React from 'react'
+import React, { FC } from 'react'
+import { Text, View } from 'react-native'
 
-const Home = () => {
-  return <div>Home</div>
+const Home: FC = () => {
+  return (
+    <View>
+      <Text>HOME</Text>
+    </View>
+  )
 }
 
 export default Home
